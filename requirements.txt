@@ -1,0 +1,6 @@
+torch
+pytorch-ignite
+monai-weekly[tqdm, nibabel, gdown, ignite]
+pandas
+numpy
+simpleitk
